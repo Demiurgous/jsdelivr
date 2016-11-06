@@ -1,0 +1,8 @@
+{
+  "packageManager": "github",
+  "name": "raiderthemet",
+  "repo": "Demiurgous/RaiderTheme",
+  "files": {
+    "include": ["BlackGlass.css"]
+  }
+}
